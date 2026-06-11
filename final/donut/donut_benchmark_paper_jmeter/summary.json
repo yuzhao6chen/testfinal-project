@@ -1,0 +1,288 @@
+{
+  "data_dir": "..\\anomalydetector\\paper_test_jmeter",
+  "x_dims": 128,
+  "z_dims": 5,
+  "epochs": 50,
+  "delay": 3,
+  "threshold_percentile": 95.0,
+  "mask_labels": true,
+  "files_total": 7,
+  "files_ok": 7,
+  "files_skipped": 0,
+  "ok_file_names": [
+    "jmeter_avg_elapsed_ms.csv",
+    "jmeter_error_count.csv",
+    "jmeter_error_rate.csv",
+    "jmeter_p95_elapsed_ms.csv",
+    "jmeter_p99_elapsed_ms.csv",
+    "jmeter_request_count.csv",
+    "jmeter_success_count.csv"
+  ],
+  "skipped_file_names": [],
+  "aggregate_fixed_metrics": {
+    "f1": 0.21817992827815602,
+    "precision": 0.8406087304765719,
+    "recall": 0.12535833731485904,
+    "TP": 2099,
+    "FP": 398,
+    "TN": 12216,
+    "FN": 14645
+  },
+  "aggregate_best_metrics": {
+    "f1": 0.8040737627923074,
+    "precision": 0.6859552931252636,
+    "recall": 0.9713330148112757,
+    "TP": 16264,
+    "FP": 7446,
+    "TN": 5168,
+    "FN": 480
+  },
+  "aggregate_fixed_metrics_on_ok_files": {
+    "f1": 0.21817992827815602,
+    "precision": 0.8406087304765719,
+    "recall": 0.12535833731485904,
+    "TP": 2099,
+    "FP": 398,
+    "TN": 12216,
+    "FN": 14645
+  },
+  "aggregate_best_metrics_on_ok_files": {
+    "f1": 0.8040737627923074,
+    "precision": 0.6859552931252636,
+    "recall": 0.9713330148112757,
+    "TP": 16264,
+    "FP": 7446,
+    "TN": 5168,
+    "FN": 480
+  },
+  "aggregate_fixed_metrics_skipped_as_normal": {
+    "f1": 0.21817992827815602,
+    "precision": 0.8406087304765719,
+    "recall": 0.12535833731485904,
+    "TP": 2099,
+    "FP": 398,
+    "TN": 12216,
+    "FN": 14645
+  },
+  "aggregate_best_metrics_skipped_as_normal": {
+    "f1": 0.8040737627923074,
+    "precision": 0.6859552931252636,
+    "recall": 0.9713330148112757,
+    "TP": 16264,
+    "FP": 7446,
+    "TN": 5168,
+    "FN": 480
+  },
+  "files": [
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_avg_elapsed_ms.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 14957725.349999998,
+      "fixed_metrics": {
+        "f1": 0.20207253886010362,
+        "precision": 0.8806451612903226,
+        "recall": 0.11413043478260869,
+        "TP": 273,
+        "FP": 37,
+        "TN": 1765,
+        "FN": 2119
+      },
+      "best_threshold": -0.6511073595285416,
+      "best_metrics": {
+        "f1": 0.8084566596194503,
+        "precision": 0.8177929854576561,
+        "recall": 0.7993311036789298,
+        "TP": 1912,
+        "FP": 426,
+        "TN": 1376,
+        "FN": 480
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_avg_elapsed_ms_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_error_count.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 21224575.99999999,
+      "fixed_metrics": {
+        "f1": 0.17653549098933433,
+        "precision": 0.7339449541284404,
+        "recall": 0.10033444816053512,
+        "TP": 240,
+        "FP": 87,
+        "TN": 1715,
+        "FN": 2152
+      },
+      "best_threshold": -0.9810716623067857,
+      "best_metrics": {
+        "f1": 0.8366561734872333,
+        "precision": 0.719182200841852,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 934,
+        "TN": 868,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_error_count_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_error_rate.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 9293087.1,
+      "fixed_metrics": {
+        "f1": 0.17804154302670622,
+        "precision": 0.7894736842105263,
+        "recall": 0.10033444816053512,
+        "TP": 240,
+        "FP": 64,
+        "TN": 1738,
+        "FN": 2152
+      },
+      "best_threshold": -0.9881404787302017,
+      "best_metrics": {
+        "f1": 0.8425501937301867,
+        "precision": 0.7279367011564212,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 894,
+        "TN": 908,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_error_rate_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_p95_elapsed_ms.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 3706.095568847652,
+      "fixed_metrics": {
+        "f1": 0.20289855072463764,
+        "precision": 0.9130434782608695,
+        "recall": 0.11413043478260869,
+        "TP": 273,
+        "FP": 26,
+        "TN": 1776,
+        "FN": 2119
+      },
+      "best_threshold": -0.9845408618450164,
+      "best_metrics": {
+        "f1": 0.7604514385630265,
+        "precision": 0.6134906386252885,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 1507,
+        "TN": 295,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_p95_elapsed_ms_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_p99_elapsed_ms.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 842.0235412597582,
+      "fixed_metrics": {
+        "f1": 0.20327624720774387,
+        "precision": 0.9285714285714286,
+        "recall": 0.11413043478260869,
+        "TP": 273,
+        "FP": 21,
+        "TN": 1781,
+        "FN": 2119
+      },
+      "best_threshold": -0.8906707447767258,
+      "best_metrics": {
+        "f1": 0.7552889169561099,
+        "precision": 0.6067985794013191,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 1550,
+        "TN": 252,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_p99_elapsed_ms_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_request_count.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 2.412800872325897,
+      "fixed_metrics": {
+        "f1": 0.20319303338171263,
+        "precision": 0.7692307692307693,
+        "recall": 0.11705685618729098,
+        "TP": 280,
+        "FP": 84,
+        "TN": 1718,
+        "FN": 2112
+      },
+      "best_threshold": 0.6764616203308105,
+      "best_metrics": {
+        "f1": 0.8155472212751449,
+        "precision": 0.6885434657455383,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 1082,
+        "TN": 720,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_request_count_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_jmeter\\jmeter_success_count.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2392,
+      "scored_label_points": 2392,
+      "merged_duplicate_rows": 0,
+      "fixed_threshold": 2.5157218337059017,
+      "fixed_metrics": {
+        "f1": 0.34770979605483116,
+        "precision": 0.8681135225375626,
+        "recall": 0.21739130434782608,
+        "TP": 520,
+        "FP": 79,
+        "TN": 1723,
+        "FN": 1872
+      },
+      "best_threshold": 0.6846768951416016,
+      "best_metrics": {
+        "f1": 0.8195991091314031,
+        "precision": 0.6943396226415094,
+        "recall": 1.0,
+        "TP": 2392,
+        "FP": 1053,
+        "TN": 749,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_jmeter\\scores\\jmeter_success_count_scores.csv"
+    }
+  ]
+}

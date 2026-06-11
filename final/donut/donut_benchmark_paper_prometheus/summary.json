@@ -1,0 +1,884 @@
+{
+  "data_dir": "..\\anomalydetector\\paper_test_prometheus",
+  "x_dims": 128,
+  "z_dims": 5,
+  "epochs": 50,
+  "delay": 3,
+  "threshold_percentile": 95.0,
+  "mask_labels": true,
+  "files_total": 27,
+  "files_ok": 26,
+  "files_skipped": 1,
+  "ok_file_names": [
+    "node_cpu_192.168.58.2_9100.csv",
+    "node_memory_prometheus-prometheus-node-exporter-4vzw4_node-exporter.csv",
+    "pod_cpu_adservice-7bb8787db5-nn8qf.csv",
+    "pod_cpu_cartservice-dc9f4fb6d-5zvlb.csv",
+    "pod_cpu_checkoutservice-6d7ccbb6cf-7grk2.csv",
+    "pod_cpu_currencyservice-7f9f695db5-pdjgs.csv",
+    "pod_cpu_frontend-76c94f7cfb-6btgv.csv",
+    "pod_cpu_frontend-76c94f7cfb-tgzf2.csv",
+    "pod_cpu_paymentservice-7cff85ccd7-t4x5j.csv",
+    "pod_cpu_productcatalogservice-54c86d9f79-c5kbm.csv",
+    "pod_cpu_recommendationservice-6d8ddf5d5f-2tbnv.csv",
+    "pod_cpu_recommendationservice-6d8ddf5d5f-rs79j.csv",
+    "pod_cpu_shippingservice-846f8585d7-w4gkr.csv",
+    "pod_memory_adservice-7bb8787db5-nn8qf.csv",
+    "pod_memory_cartservice-dc9f4fb6d-5zvlb.csv",
+    "pod_memory_checkoutservice-6d7ccbb6cf-7grk2.csv",
+    "pod_memory_currencyservice-7f9f695db5-pdjgs.csv",
+    "pod_memory_frontend-76c94f7cfb-6btgv.csv",
+    "pod_memory_frontend-76c94f7cfb-tgzf2.csv",
+    "pod_memory_paymentservice-7cff85ccd7-t4x5j.csv",
+    "pod_memory_productcatalogservice-54c86d9f79-c5kbm.csv",
+    "pod_memory_recommendationservice-6d8ddf5d5f-2tbnv.csv",
+    "pod_memory_recommendationservice-6d8ddf5d5f-rs79j.csv",
+    "pod_memory_shippingservice-846f8585d7-w4gkr.csv",
+    "pod_restart_currencyservice-7f9f695db5-pdjgs_server.csv",
+    "pod_restart_paymentservice-7cff85ccd7-t4x5j_server.csv"
+  ],
+  "skipped_file_names": [
+    "pod_restart_cartservice-dc9f4fb6d-5zvlb_server.csv"
+  ],
+  "aggregate_fixed_metrics": {
+    "f1": 0.26330493085626483,
+    "precision": 0.3992798135988138,
+    "recall": 0.19641554652495571,
+    "TP": 1885,
+    "FP": 2836,
+    "TN": 79335,
+    "FN": 7712
+  },
+  "aggregate_best_metrics": {
+    "f1": 0.528539554325416,
+    "precision": 0.3625339015885316,
+    "recall": 0.9749921850578306,
+    "TP": 9357,
+    "FP": 16453,
+    "TN": 65718,
+    "FN": 240
+  },
+  "aggregate_fixed_metrics_on_ok_files": {
+    "f1": 0.26330493085626483,
+    "precision": 0.3992798135988138,
+    "recall": 0.19641554652495571,
+    "TP": 1885,
+    "FP": 2836,
+    "TN": 79335,
+    "FN": 7712
+  },
+  "aggregate_best_metrics_on_ok_files": {
+    "f1": 0.528539554325416,
+    "precision": 0.3625339015885316,
+    "recall": 0.9749921850578306,
+    "TP": 9357,
+    "FP": 16453,
+    "TN": 65718,
+    "FN": 240
+  },
+  "aggregate_fixed_metrics_skipped_as_normal": {
+    "f1": 0.25896414342629487,
+    "precision": 0.3992798135988138,
+    "recall": 0.1916234624377351,
+    "TP": 1885,
+    "FP": 2836,
+    "TN": 83289,
+    "FN": 7952
+  },
+  "aggregate_best_metrics_skipped_as_normal": {
+    "f1": 0.5249810643251888,
+    "precision": 0.3625339015885316,
+    "recall": 0.9512046355596219,
+    "TP": 9357,
+    "FP": 16453,
+    "TN": 69672,
+    "FN": 480
+  },
+  "files": [
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\node_cpu_192.168.58.2_9100.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2404,
+      "scored_label_points": 2404,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 18.12820692062378,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "TN": 1790,
+        "FN": 2404
+      },
+      "best_threshold": 0.710149181485176,
+      "best_metrics": {
+        "f1": 0.8010364612252452,
+        "precision": 0.7215738579526508,
+        "recall": 0.9001663893510815,
+        "TP": 2164,
+        "FP": 835,
+        "TN": 955,
+        "FN": 240
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\node_cpu_192.168.58.2_9100_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\node_memory_prometheus-prometheus-node-exporter-4vzw4_node-exporter.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 2404,
+      "scored_label_points": 2404,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.246306455135345,
+      "fixed_metrics": {
+        "f1": 0.17810760667903525,
+        "precision": 0.8247422680412371,
+        "recall": 0.09983361064891846,
+        "TP": 240,
+        "FP": 51,
+        "TN": 1739,
+        "FN": 2164
+      },
+      "best_threshold": 0.7140982753038406,
+      "best_metrics": {
+        "f1": 0.7527790825113512,
+        "precision": 0.6035651518955562,
+        "recall": 1.0,
+        "TP": 2404,
+        "FP": 1579,
+        "TN": 211,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\node_memory_prometheus-prometheus-node-exporter-4vzw4_node-exporter_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_adservice-7bb8787db5-nn8qf.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 241,
+      "scored_label_points": 241,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.4411930561065667,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 197,
+        "TN": 3756,
+        "FN": 241
+      },
+      "best_threshold": 0.7244409453868866,
+      "best_metrics": {
+        "f1": 0.3173140223831468,
+        "precision": 0.18857589984350548,
+        "recall": 1.0,
+        "TP": 241,
+        "FP": 1037,
+        "TN": 2916,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_adservice-7bb8787db5-nn8qf_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_cartservice-dc9f4fb6d-5zvlb.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.4919458389282223,
+      "fixed_metrics": {
+        "f1": 0.7272727272727273,
+        "precision": 0.5714285714285714,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 180,
+        "TN": 3774,
+        "FN": 0
+      },
+      "best_threshold": 4.293356165885907,
+      "best_metrics": {
+        "f1": 0.9542743538767395,
+        "precision": 0.9125475285171103,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 23,
+        "TN": 3931,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_cartservice-dc9f4fb6d-5zvlb_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_checkoutservice-6d7ccbb6cf-7grk2.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 6.070688915252679,
+      "fixed_metrics": {
+        "f1": 0.9815950920245399,
+        "precision": 0.963855421686747,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 9,
+        "TN": 3945,
+        "FN": 0
+      },
+      "best_threshold": 11.549201202392537,
+      "best_metrics": {
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 0,
+        "TN": 3954,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_checkoutservice-6d7ccbb6cf-7grk2_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_currencyservice-7f9f695db5-pdjgs.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.4609131932258603,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 114,
+        "TN": 3840,
+        "FN": 240
+      },
+      "best_threshold": -0.09530920460820198,
+      "best_metrics": {
+        "f1": 0.12994044396318355,
+        "precision": 0.06948465547191662,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 3214,
+        "TN": 740,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_currencyservice-7f9f695db5-pdjgs_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_frontend-76c94f7cfb-6btgv.csv",
+      "status": "ok",
+      "points": 3295,
+      "scored_points": 3168,
+      "label_points": 235,
+      "scored_label_points": 108,
+      "merged_duplicate_rows": 19,
+      "fixed_threshold": 2.2627937912940927,
+      "fixed_metrics": {
+        "f1": 0.5901639344262295,
+        "precision": 0.4186046511627907,
+        "recall": 1.0,
+        "TP": 108,
+        "FP": 150,
+        "TN": 2910,
+        "FN": 0
+      },
+      "best_threshold": 6.078219437599182,
+      "best_metrics": {
+        "f1": 0.878048780487805,
+        "precision": 0.782608695652174,
+        "recall": 1.0,
+        "TP": 108,
+        "FP": 30,
+        "TN": 3030,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_frontend-76c94f7cfb-6btgv_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_frontend-76c94f7cfb-tgzf2.csv",
+      "status": "ok",
+      "points": 1029,
+      "scored_points": 902,
+      "label_points": 8,
+      "scored_label_points": 8,
+      "merged_duplicate_rows": 5,
+      "fixed_threshold": 2112.8167480468737,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 46,
+        "TN": 848,
+        "FN": 8
+      },
+      "best_threshold": 13.823183612823488,
+      "best_metrics": {
+        "f1": 0.06400000000000002,
+        "precision": 0.03305785123966942,
+        "recall": 1.0,
+        "TP": 8,
+        "FP": 234,
+        "TN": 660,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_frontend-76c94f7cfb-tgzf2_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_paymentservice-7cff85ccd7-t4x5j.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 241,
+      "scored_label_points": 241,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 45.780931854247,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 210,
+        "TN": 3743,
+        "FN": 241
+      },
+      "best_threshold": -1.3235752773284912,
+      "best_metrics": {
+        "f1": 0.4009983361064892,
+        "precision": 0.25078043704474506,
+        "recall": 1.0,
+        "TP": 241,
+        "FP": 720,
+        "TN": 3233,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_paymentservice-7cff85ccd7-t4x5j_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_productcatalogservice-54c86d9f79-c5kbm.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 4.251761460304261,
+      "fixed_metrics": {
+        "f1": 0.9073724007561437,
+        "precision": 0.8304498269896193,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 49,
+        "TN": 3905,
+        "FN": 0
+      },
+      "best_threshold": 460.2322250366294,
+      "best_metrics": {
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 0,
+        "TN": 3954,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_productcatalogservice-54c86d9f79-c5kbm_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_recommendationservice-6d8ddf5d5f-2tbnv.csv",
+      "status": "ok",
+      "points": 2948,
+      "scored_points": 2821,
+      "label_points": 249,
+      "scored_label_points": 249,
+      "merged_duplicate_rows": 16,
+      "fixed_threshold": 11915018240.0,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "TN": 2572,
+        "FN": 249
+      },
+      "best_threshold": 20.559846878051715,
+      "best_metrics": {
+        "f1": 0.3930544593528019,
+        "precision": 0.24459724950884087,
+        "recall": 1.0,
+        "TP": 249,
+        "FP": 769,
+        "TN": 1803,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_recommendationservice-6d8ddf5d5f-2tbnv_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_recommendationservice-6d8ddf5d5f-rs79j.csv",
+      "status": "ok",
+      "points": 1376,
+      "scored_points": 1249,
+      "label_points": 236,
+      "scored_label_points": 109,
+      "merged_duplicate_rows": 8,
+      "fixed_threshold": 1.9757344484329211,
+      "fixed_metrics": {
+        "f1": 0.7813620071684588,
+        "precision": 0.6411764705882353,
+        "recall": 1.0,
+        "TP": 109,
+        "FP": 61,
+        "TN": 1079,
+        "FN": 0
+      },
+      "best_threshold": 2.1911984634399397,
+      "best_metrics": {
+        "f1": 0.8164794007490637,
+        "precision": 0.689873417721519,
+        "recall": 1.0,
+        "TP": 109,
+        "FP": 49,
+        "TN": 1091,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_recommendationservice-6d8ddf5d5f-rs79j_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_cpu_shippingservice-846f8585d7-w4gkr.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.7002081513404845,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 147,
+        "TN": 3807,
+        "FN": 240
+      },
+      "best_threshold": 0.7332397878170014,
+      "best_metrics": {
+        "f1": 0.42328042328042326,
+        "precision": 0.2684563758389262,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 654,
+        "TN": 3300,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_cpu_shippingservice-846f8585d7-w4gkr_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_adservice-7bb8787db5-nn8qf.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 241,
+      "scored_label_points": 241,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 1387819.0062499973,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 210,
+        "TN": 3743,
+        "FN": 241
+      },
+      "best_threshold": 7.1845923328399675,
+      "best_metrics": {
+        "f1": 0.5814234016887817,
+        "precision": 0.4098639455782313,
+        "recall": 1.0,
+        "TP": 241,
+        "FP": 347,
+        "TN": 3606,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_adservice-7bb8787db5-nn8qf_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_cartservice-dc9f4fb6d-5zvlb.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 12.781511974334713,
+      "fixed_metrics": {
+        "f1": 0.9195402298850576,
+        "precision": 0.851063829787234,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 42,
+        "TN": 3912,
+        "FN": 0
+      },
+      "best_threshold": 56.037280120850234,
+      "best_metrics": {
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 0,
+        "TN": 3954,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_cartservice-dc9f4fb6d-5zvlb_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_checkoutservice-6d7ccbb6cf-7grk2.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 9178020812.799938,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 0,
+        "TN": 3954,
+        "FN": 240
+      },
+      "best_threshold": 5.603430271148332,
+      "best_metrics": {
+        "f1": 0.973630831643002,
+        "precision": 0.9486166007905138,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 13,
+        "TN": 3941,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_checkoutservice-6d7ccbb6cf-7grk2_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_currencyservice-7f9f695db5-pdjgs.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 0.17971399053931195,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 210,
+        "TN": 3744,
+        "FN": 240
+      },
+      "best_threshold": -1.1608763217926024,
+      "best_metrics": {
+        "f1": 0.1435836075381394,
+        "precision": 0.07734450531743474,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 2863,
+        "TN": 1091,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_currencyservice-7f9f695db5-pdjgs_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_frontend-76c94f7cfb-6btgv.csv",
+      "status": "ok",
+      "points": 3300,
+      "scored_points": 3173,
+      "label_points": 240,
+      "scored_label_points": 113,
+      "merged_duplicate_rows": 19,
+      "fixed_threshold": 1.1435898303985395,
+      "fixed_metrics": {
+        "f1": 0.6312849162011173,
+        "precision": 0.46122448979591835,
+        "recall": 1.0,
+        "TP": 113,
+        "FP": 132,
+        "TN": 2928,
+        "FN": 0
+      },
+      "best_threshold": 7.1941102027892905,
+      "best_metrics": {
+        "f1": 0.9262295081967213,
+        "precision": 0.8625954198473282,
+        "recall": 1.0,
+        "TP": 113,
+        "FP": 18,
+        "TN": 3042,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_frontend-76c94f7cfb-6btgv_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_frontend-76c94f7cfb-tgzf2.csv",
+      "status": "ok",
+      "points": 1022,
+      "scored_points": 895,
+      "label_points": 1,
+      "scored_label_points": 1,
+      "merged_duplicate_rows": 5,
+      "fixed_threshold": 2.685034370422363,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 45,
+        "TN": 849,
+        "FN": 1
+      },
+      "best_threshold": 0.2915528881549835,
+      "best_metrics": {
+        "f1": 0.0025974025974025974,
+        "precision": 0.0013003901170351106,
+        "recall": 1.0,
+        "TP": 1,
+        "FP": 768,
+        "TN": 126,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_frontend-76c94f7cfb-tgzf2_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_paymentservice-7cff85ccd7-t4x5j.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 241,
+      "scored_label_points": 241,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 0.2933464631438255,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 193,
+        "TN": 3760,
+        "FN": 241
+      },
+      "best_threshold": 0.09259211353957653,
+      "best_metrics": {
+        "f1": 0.550228310502283,
+        "precision": 0.3795275590551181,
+        "recall": 1.0,
+        "TP": 241,
+        "FP": 394,
+        "TN": 3559,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_paymentservice-7cff85ccd7-t4x5j_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_productcatalogservice-54c86d9f79-c5kbm.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 14.750971841811843,
+      "fixed_metrics": {
+        "f1": 0.9937888198757764,
+        "precision": 0.9876543209876543,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 3,
+        "TN": 3951,
+        "FN": 0
+      },
+      "best_threshold": 59.31826019287107,
+      "best_metrics": {
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 0,
+        "TN": 3954,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_productcatalogservice-54c86d9f79-c5kbm_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_recommendationservice-6d8ddf5d5f-2tbnv.csv",
+      "status": "ok",
+      "points": 2942,
+      "scored_points": 2815,
+      "label_points": 243,
+      "scored_label_points": 243,
+      "merged_duplicate_rows": 16,
+      "fixed_threshold": 109613.26562499997,
+      "fixed_metrics": {
+        "f1": 0.010389610389610391,
+        "precision": 0.014084507042253521,
+        "recall": 0.00823045267489712,
+        "TP": 2,
+        "FP": 140,
+        "TN": 2432,
+        "FN": 241
+      },
+      "best_threshold": 182.8013763427735,
+      "best_metrics": {
+        "f1": 0.49190283400809715,
+        "precision": 0.3261744966442953,
+        "recall": 1.0,
+        "TP": 243,
+        "FP": 502,
+        "TN": 2070,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_recommendationservice-6d8ddf5d5f-2tbnv_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_recommendationservice-6d8ddf5d5f-rs79j.csv",
+      "status": "ok",
+      "points": 1380,
+      "scored_points": 1253,
+      "label_points": 240,
+      "scored_label_points": 113,
+      "merged_duplicate_rows": 8,
+      "fixed_threshold": 6.705145454406736,
+      "fixed_metrics": {
+        "f1": 0.8828125,
+        "precision": 0.7902097902097902,
+        "recall": 1.0,
+        "TP": 113,
+        "FP": 30,
+        "TN": 1110,
+        "FN": 0
+      },
+      "best_threshold": 10.505605964660646,
+      "best_metrics": {
+        "f1": 0.9495798319327732,
+        "precision": 0.904,
+        "recall": 1.0,
+        "TP": 113,
+        "FP": 12,
+        "TN": 1128,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_recommendationservice-6d8ddf5d5f-rs79j_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_memory_shippingservice-846f8585d7-w4gkr.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": 2.3529721140861506,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 200,
+        "TN": 3754,
+        "FN": 240
+      },
+      "best_threshold": 1.2069271194934845,
+      "best_metrics": {
+        "f1": 0.366412213740458,
+        "precision": 0.22429906542056074,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 830,
+        "TN": 3124,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_memory_shippingservice-846f8585d7-w4gkr_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_restart_cartservice-dc9f4fb6d-5zvlb_server.csv",
+      "status": "skipped",
+      "reason": "ValueError('near-zero std')"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_restart_currencyservice-7f9f695db5-pdjgs_server.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 240,
+      "scored_label_points": 240,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": -5.3371950626373295,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 209,
+        "TN": 3745,
+        "FN": 240
+      },
+      "best_threshold": -5.348494272232055,
+      "best_metrics": {
+        "f1": 0.29357798165137616,
+        "precision": 0.17204301075268819,
+        "recall": 1.0,
+        "TP": 240,
+        "FP": 1155,
+        "TN": 2799,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_restart_currencyservice-7f9f695db5-pdjgs_server_scores.csv"
+    },
+    {
+      "file": "..\\anomalydetector\\paper_test_prometheus\\pod_restart_paymentservice-7cff85ccd7-t4x5j_server.csv",
+      "status": "ok",
+      "points": 4321,
+      "scored_points": 4194,
+      "label_points": 241,
+      "scored_label_points": 241,
+      "merged_duplicate_rows": 24,
+      "fixed_threshold": -3.106926679611206,
+      "fixed_metrics": {
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "TP": 0,
+        "FP": 208,
+        "TN": 3745,
+        "FN": 241
+      },
+      "best_threshold": -3.1075814247131346,
+      "best_metrics": {
+        "f1": 0.5421822272215973,
+        "precision": 0.37191358024691357,
+        "recall": 1.0,
+        "TP": 241,
+        "FP": 407,
+        "TN": 3546,
+        "FN": 0
+      },
+      "scores_path": "donut_benchmark_paper_prometheus\\scores\\pod_restart_paymentservice-7cff85ccd7-t4x5j_server_scores.csv"
+    }
+  ]
+}

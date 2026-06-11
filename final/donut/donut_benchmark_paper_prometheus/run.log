@@ -1,0 +1,10 @@
+﻿[2026-06-11T13:34:29] Donut Prometheus benchmark completed via direct Python batches.
+data_dir=..\anomalydetector\paper_test_prometheus
+x_dims=128; epochs=50; delay=3; mask_labels=True
+files_total=27; files_ok=26; files_skipped=1
+fixed: f1=0.26330493085626483; precision=0.3992798135988138; recall=0.19641554652495571
+best: f1=0.528539554325416; precision=0.3625339015885316; recall=0.9749921850578306
+best skipped-as-normal: f1=0.5249810643251888; precision=0.3625339015885316; recall=0.9512046355596219
+skipped=pod_restart_cartservice-dc9f4fb6d-5zvlb_server.csv
+summary=donut_benchmark_paper_prometheus\summary.json
+scores=donut_benchmark_paper_prometheus\scores\*_scores.csv

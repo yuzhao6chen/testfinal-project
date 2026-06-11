@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: Donut
+Version: 0.1
+Summary: Donut is an anomaly detection algorithm for periodic KPIs.
+Home-page: https://github.com/haowen-xu/donut/
+Author: Haowen Xu
+Author-email: haowen.xu@outlook.com
+License: MIT
+Platform: any
+Classifier: Development Status :: 2 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+
+Donut
+-----
+
+Donut is an anomaly detection algorithm for periodic KPIs.

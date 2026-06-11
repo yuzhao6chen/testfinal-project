@@ -1,0 +1,39 @@
+{
+  "data_source": "paper_test_jmeter",
+  "model": "sr_cnn",
+  "window": 128,
+  "epoch": 10,
+  "delay": 3,
+  "model_path": "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/snapshot_paper_jmeter/srcnn_retry10_128.bin",
+  "files": [
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_avg_elapsed_ms.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_error_count.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_error_rate.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_p95_elapsed_ms.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_p99_elapsed_ms.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_request_count.csv",
+    "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/paper_test_jmeter/jmeter_success_count.csv"
+  ],
+  "prediction_time_seconds": 15.466772556304932,
+  "initial_threshold": 0.95,
+  "initial_metrics": {
+    "f1": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "TP": 0,
+    "FP": 0,
+    "TN": 13503,
+    "FN": 16744
+  },
+  "best_threshold": 0.04,
+  "best_metrics": {
+    "f1": 0.7549479103426504,
+    "precision": 0.6361366891753633,
+    "recall": 0.9283325370281892,
+    "TP": 15544,
+    "FP": 8891,
+    "TN": 4612,
+    "FN": 1200
+  },
+  "saved_scores_path": "D:\\Desktop\\\u5927\u5b66\\\u5927\u4e09\u4e0b\\\u8f6f\u4ef6\u6d4b\u8bd5\\final\\anomalydetector/results_paper_jmeter/paper_test_jmeter_saved_scores.json"
+}
