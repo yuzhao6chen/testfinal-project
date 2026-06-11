@@ -1,0 +1,52 @@
+{
+  "algorithm": "FluxEV",
+  "run_dir": "D:\\AAAStudyData\\SoftwareTestMaintenance\\final_work_paper\\FluxEV\\code_output\\outputs_dataset_my_final\\20260608_recall_fine_rerun",
+  "dataset_root": "D:\\AAAStudyData\\SoftwareTestMaintenance\\final_work_paper\\FluxEV\\dataset_my_final",
+  "mode": "grid",
+  "grid_preset": "recall_fine",
+  "selection_strategy": "near_f1_max_recall",
+  "baseline_report": "",
+  "interval_seconds": 5,
+  "elapsed_seconds": 4040.22,
+  "best_params": {
+    "jmeter": "S2P60_SW30_Q0.015",
+    "prometheus": "S2P120_SW8_Q0.0045"
+  },
+  "dataset_summary": {
+    "jmeter": {
+      "files": 7,
+      "valid_with_anomaly": 7,
+      "train_completed_rows_min": 4321,
+      "train_completed_rows_max": 4321,
+      "test_completed_rows_min": 4321,
+      "test_completed_rows_max": 4321,
+      "train_duplicate_rows": 0,
+      "test_duplicate_rows": 0
+    },
+    "prometheus": {
+      "files": 27,
+      "valid_with_anomaly": 27,
+      "train_completed_rows_min": 1022,
+      "train_completed_rows_max": 4321,
+      "test_completed_rows_min": 1022,
+      "test_completed_rows_max": 4321,
+      "train_duplicate_rows": 552,
+      "test_duplicate_rows": 552
+    }
+  },
+  "plot_error_count": 0,
+  "plots_only_elapsed_seconds": 5.7677608000000005,
+  "windows_environment_variables_modified": false,
+  "gpu_used": false,
+  "aligned_to_dataset_my_final": true,
+  "experiment_rerun": false,
+  "derived_from_output": "D:\\AAAStudyData\\SoftwareTestMaintenance\\final_work_paper\\FluxEV\\outputs_dataset_my_clean_recall\\20260608_recall_fine_rerun",
+  "removed_prometheus_metrics": [
+    "pod_cpu_emailservice-58dc4788c5-2zbts_predictions.csv",
+    "pod_cpu_loadgenerator-69fdddd69d-cvq7m_predictions.csv",
+    "pod_cpu_redis-cart-6899b65948-bj9wm_predictions.csv",
+    "pod_memory_emailservice-58dc4788c5-2zbts_predictions.csv",
+    "pod_memory_loadgenerator-69fdddd69d-cvq7m_predictions.csv",
+    "pod_memory_redis-cart-6899b65948-bj9wm_predictions.csv"
+  ]
+}
