@@ -133,7 +133,7 @@ Grafana 用于展示系统在正常运行与故障注入期间的状态变化，
 | Donut | JMeter | 0.8041 | 0.6860 | 0.9713 |
 | Donut | Prometheus | 0.5285 | 0.3625 | 0.9750 |
 | FluxEV | JMeter | 0.5665 | 0.7026 | 0.4746 |
-| FluxEV | Prometheus 全 27 指标 | 0.5700 | 0.8056 | 0.4410 |
+| FluxEV | Prometheus  | 0.5700 | 0.8056 | 0.4410 |
 
 从结果可以看出：
 
@@ -157,29 +157,6 @@ Grafana 用于展示系统在正常运行与故障注入期间的状态变化，
 
 该部分对应课程加分项二，体现了从人工观测到自动化智能运维流程的扩展。
 
-## 大作业展示对应关系
-
-| 展示要求 | 项目完成情况 |
-|---|---|
-| 微服务系统介绍 | 选择 Online Boutique，并完成部署、服务联调和微服务开发 |
-| 项目测试展示 | 使用 Selenium 进行功能测试，使用 JMeter 进行性能测试 |
-| 故障注入与监控 | 使用 ChaosMesh 注入故障，使用 Prometheus 与 Grafana 监控 |
-| 异常数据采集与分析 | 采集 JMeter 与 Prometheus 数据，复现 SR-CNN、Donut、FluxEV |
-| 加分项展示 | 完成多论文复现对比，并封装智能运维智能体 |
-
-## 运行流程
-
-整体实验流程如下：
-
-1. 部署 Kubernetes 集群环境。
-2. 部署 Online Boutique 微服务系统。
-3. 配置 Prometheus 与 Grafana 监控。
-4. 使用 Selenium 验证核心业务流程。
-5. 使用 JMeter 进行压力测试并采集性能指标。
-6. 使用 ChaosMesh 注入故障。
-7. 采集故障期间的 Prometheus 与 JMeter 指标数据。
-8. 运行 SR-CNN、Donut、FluxEV 算法进行异常检测。
-9. 使用智能体自动组织故障注入、检测、分析与结果汇总流程。
 
 ## 总结
 
