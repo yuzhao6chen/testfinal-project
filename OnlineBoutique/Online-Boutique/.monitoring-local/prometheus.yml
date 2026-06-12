@@ -1,0 +1,29 @@
+global:
+  scrape_interval: 5s
+  evaluation_interval: 5s
+
+scrape_configs:
+  - job_name: rewardservice-local
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - "rewardservice:8080"
+        labels:
+          app: rewardservice
+          namespace: local
+  - job_name: frontend-local
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - "frontend:8080"
+        labels:
+          app: frontend
+          namespace: local
+  - job_name: adwatchservice-local
+    metrics_path: /metrics
+    static_configs:
+      - targets:
+          - "adwatchservice:8080"
+        labels:
+          app: adwatchservice
+          namespace: local
