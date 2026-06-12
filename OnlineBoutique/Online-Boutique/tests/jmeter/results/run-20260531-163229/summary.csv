@@ -1,0 +1,9 @@
+step,label,samples,failure_rate_pct,server_error_rate_pct,avg_ms,p50_ms,p95_ms,p99_ms,throughput_rps
+baseline-20vu,TOTAL,5647,0.0,0.0,469.041,267.0,1514.0,2588.0,47.465
+baseline-20vu,01 Home,821,0.0,0.0,711.609,543.0,2144.0,2209.0,6.962
+baseline-20vu,02 Product Detail,821,0.0,0.0,489.029,230.0,1622.0,2263.0,7.02
+baseline-20vu,03 Add To Cart,801,0.0,0.0,405.325,273.0,1062.0,2188.0,7.038
+baseline-20vu,03 Add To Cart-0,801,0.0,0.0,62.421,30.0,143.0,784.0,7.038
+baseline-20vu,03 Add To Cart-1,801,0.0,0.0,342.813,243.0,953.0,2148.0,7.093
+baseline-20vu,04 Cart,801,0.0,0.0,257.874,176.0,693.0,1414.0,7.246
+baseline-20vu,05 Checkout,801,0.0,0.0,1007.662,739.0,2978.0,5062.0,7.244

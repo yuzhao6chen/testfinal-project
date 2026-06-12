@@ -1,0 +1,548 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1780766692542,5,01 Ad Watch Start,200,OK,Ad Completion Users 1-6,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,5,0,1
+1780766692511,31,01 Ad Watch Start,200,OK,Ad Completion Users 1-4,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,30,0,11
+1780766692511,30,01 Ad Watch Start,200,OK,Ad Completion Users 1-5,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,29,0,11
+1780766692511,30,01 Ad Watch Start,200,OK,Ad Completion Users 1-3,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,30,0,11
+1780766692511,31,01 Ad Watch Start,200,OK,Ad Completion Users 1-1,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,29,0,11
+1780766692511,30,01 Ad Watch Start,200,OK,Ad Completion Users 1-2,text,true,,301,373,6,6,http://127.0.0.1:8080/ads/watch/start,28,0,11
+1780766692600,8,01 Ad Watch Start,200,OK,Ad Completion Users 1-7,text,true,,301,373,7,7,http://127.0.0.1:8080/ads/watch/start,8,0,1
+1780766692663,8,01 Ad Watch Start,200,OK,Ad Completion Users 1-8,text,true,,301,373,8,8,http://127.0.0.1:8080/ads/watch/start,8,0,0
+1780766692728,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-9,text,true,,301,373,9,9,http://127.0.0.1:8080/ads/watch/start,10,0,0
+1780766692790,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-10,text,true,,301,373,10,10,http://127.0.0.1:8080/ads/watch/start,10,0,1
+1780766692853,11,01 Ad Watch Start,200,OK,Ad Completion Users 1-11,text,true,,301,374,11,11,http://127.0.0.1:8080/ads/watch/start,11,0,1
+1780766692915,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-12,text,true,,301,374,12,12,http://127.0.0.1:8080/ads/watch/start,10,0,1
+1780766692979,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-13,text,true,,301,374,13,13,http://127.0.0.1:8080/ads/watch/start,10,0,1
+1780766693048,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-14,text,true,,301,374,14,14,http://127.0.0.1:8080/ads/watch/start,10,0,1
+1780766693104,8,01 Ad Watch Start,200,OK,Ad Completion Users 1-15,text,true,,301,374,15,15,http://127.0.0.1:8080/ads/watch/start,8,0,0
+1780766693171,7,01 Ad Watch Start,200,OK,Ad Completion Users 1-16,text,true,,301,374,16,16,http://127.0.0.1:8080/ads/watch/start,7,0,1
+1780766693231,5,01 Ad Watch Start,200,OK,Ad Completion Users 1-17,text,true,,301,374,17,17,http://127.0.0.1:8080/ads/watch/start,5,0,1
+1780766693293,6,01 Ad Watch Start,200,OK,Ad Completion Users 1-18,text,true,,301,374,18,18,http://127.0.0.1:8080/ads/watch/start,6,0,1
+1780766693357,5,01 Ad Watch Start,200,OK,Ad Completion Users 1-19,text,true,,301,374,19,19,http://127.0.0.1:8080/ads/watch/start,5,0,0
+1780766693426,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-20,text,true,,301,374,20,20,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766693488,11,01 Ad Watch Start,200,OK,Ad Completion Users 1-21,text,true,,301,374,21,21,http://127.0.0.1:8080/ads/watch/start,11,0,1
+1780766693553,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-22,text,true,,301,374,22,22,http://127.0.0.1:8080/ads/watch/start,13,0,2
+1780766693613,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-23,text,true,,301,374,23,23,http://127.0.0.1:8080/ads/watch/start,14,0,1
+1780766693684,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-24,text,true,,301,374,24,24,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766693748,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-25,text,true,,301,374,25,25,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766693804,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-26,text,true,,301,374,26,26,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766693873,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-27,text,true,,301,374,27,27,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766693947,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-28,text,true,,301,374,28,28,http://127.0.0.1:8080/ads/watch/start,13,0,2
+1780766693996,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-29,text,true,,301,374,29,29,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766694063,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-30,text,true,,301,374,30,30,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766694124,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-31,text,true,,301,374,31,31,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766694184,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-32,text,true,,301,374,32,32,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766694249,17,01 Ad Watch Start,200,OK,Ad Completion Users 1-33,text,true,,301,374,33,33,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766694307,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-34,text,true,,301,374,34,34,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766694366,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-35,text,true,,301,374,35,35,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766694438,9,01 Ad Watch Start,200,OK,Ad Completion Users 1-36,text,true,,301,374,36,36,http://127.0.0.1:8080/ads/watch/start,9,0,2
+1780766694493,10,01 Ad Watch Start,200,OK,Ad Completion Users 1-37,text,true,,301,374,37,37,http://127.0.0.1:8080/ads/watch/start,10,0,1
+1780766694559,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-38,text,true,,301,374,38,38,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766694620,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-39,text,true,,301,374,39,39,http://127.0.0.1:8080/ads/watch/start,14,0,1
+1780766694683,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-40,text,true,,301,374,40,40,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766694752,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-41,text,true,,301,374,41,41,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766694806,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-42,text,true,,301,374,42,42,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766694873,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-43,text,true,,301,374,43,43,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766694938,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-44,text,true,,301,374,44,44,http://127.0.0.1:8080/ads/watch/start,14,0,1
+1780766694999,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-45,text,true,,301,374,45,45,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766695063,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-46,text,true,,301,374,46,46,http://127.0.0.1:8080/ads/watch/start,12,0,2
+1780766695122,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-47,text,true,,301,374,47,47,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766695187,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-48,text,true,,301,374,48,48,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766695254,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-49,text,true,,301,374,49,49,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766695313,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-50,text,true,,301,374,50,50,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766695383,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-51,text,true,,301,374,51,51,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766695438,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-52,text,true,,301,374,52,52,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766695509,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-53,text,true,,301,374,53,53,http://127.0.0.1:8080/ads/watch/start,15,0,3
+1780766695563,9,01 Ad Watch Start,200,OK,Ad Completion Users 1-54,text,true,,301,374,54,54,http://127.0.0.1:8080/ads/watch/start,8,0,1
+1780766695629,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-55,text,true,,301,374,55,55,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766695697,31,01 Ad Watch Start,200,OK,Ad Completion Users 1-56,text,true,,301,374,56,56,http://127.0.0.1:8080/ads/watch/start,31,0,2
+1780766695760,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-57,text,true,,301,374,57,57,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766695816,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-58,text,true,,301,374,58,58,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766695880,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-59,text,true,,301,374,59,59,http://127.0.0.1:8080/ads/watch/start,15,0,1
+1780766695950,17,01 Ad Watch Start,200,OK,Ad Completion Users 1-60,text,true,,301,374,60,60,http://127.0.0.1:8080/ads/watch/start,17,0,1
+1780766696014,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-61,text,true,,301,374,61,61,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766696075,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-62,text,true,,301,374,62,62,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766696131,11,01 Ad Watch Start,200,OK,Ad Completion Users 1-63,text,true,,301,374,63,63,http://127.0.0.1:8080/ads/watch/start,11,0,1
+1780766696202,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-64,text,true,,301,374,64,64,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766696261,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-65,text,true,,301,374,65,65,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766696319,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-66,text,true,,301,374,66,66,http://127.0.0.1:8080/ads/watch/start,14,0,1
+1780766696382,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-67,text,true,,301,374,67,67,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766696453,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-68,text,true,,301,374,68,68,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766696508,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-69,text,true,,301,374,69,69,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766696570,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-70,text,true,,301,374,70,70,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766696645,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-71,text,true,,301,374,71,71,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766696708,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-72,text,true,,301,374,72,72,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766696766,13,01 Ad Watch Start,200,OK,Ad Completion Users 1-73,text,true,,301,374,73,73,http://127.0.0.1:8080/ads/watch/start,13,0,1
+1780766696827,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-74,text,true,,301,374,74,74,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766696887,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-75,text,true,,301,374,75,75,http://127.0.0.1:8080/ads/watch/start,14,0,2
+1780766696958,14,01 Ad Watch Start,200,OK,Ad Completion Users 1-76,text,true,,301,374,76,76,http://127.0.0.1:8080/ads/watch/start,14,0,1
+1780766697015,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-77,text,true,,301,374,77,77,http://127.0.0.1:8080/ads/watch/start,12,0,1
+1780766697075,12,01 Ad Watch Start,200,OK,Ad Completion Users 1-78,text,true,,301,374,78,78,http://127.0.0.1:8080/ads/watch/start,12,0,2
+1780766697142,16,01 Ad Watch Start,200,OK,Ad Completion Users 1-79,text,true,,301,374,79,79,http://127.0.0.1:8080/ads/watch/start,16,0,2
+1780766697211,15,01 Ad Watch Start,200,OK,Ad Completion Users 1-80,text,true,,301,374,80,80,http://127.0.0.1:8080/ads/watch/start,15,0,2
+1780766724683,38,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-3,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,38,0,0
+1780766724690,31,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-4,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,31,0,0
+1780766724684,38,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-5,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,38,0,0
+1780766724684,39,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-2,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,39,0,0
+1780766724684,39,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-1,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,39,0,0
+1780766724725,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-4,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724725,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-1,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724725,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-2,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724725,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-3,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724725,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-5,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724747,6,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-6,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766724753,3,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-6,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,3,0,0
+1780766725011,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-7,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766725019,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-7,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766725273,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-8,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766725283,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-8,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766725534,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-9,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766725544,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-9,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766725791,22,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-10,text,true,,172,432,80,80,http://127.0.0.1:8080/ads/watch/event,22,0,0
+1780766725814,5,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-10,text,true,,172,427,80,80,http://127.0.0.1:8080/ads/watch/event,5,0,0
+1780766726063,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-11,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766726074,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-11,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766726317,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-12,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766726328,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-12,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766726589,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-13,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766726601,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-13,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766726859,7,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-14,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766726867,5,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-14,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,5,0,0
+1780766727114,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-15,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766727126,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-15,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766727382,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-16,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766727391,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-16,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766727640,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-17,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766727653,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-17,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766727903,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-18,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766727917,11,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-18,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766728167,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-19,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766728181,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-19,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766728436,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-20,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766728448,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-20,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766728697,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-21,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766728710,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-21,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766728963,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-22,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766728972,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-22,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766729222,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-23,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766729234,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-23,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766729484,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-24,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766729494,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-24,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766729754,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-25,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766729762,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-25,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766730005,9,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-26,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766730016,5,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-26,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,5,0,0
+1780766730282,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-27,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766730296,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-27,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766730557,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-28,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766730568,5,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-28,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,5,0,0
+1780766730801,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-29,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766730817,11,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-29,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766731072,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-30,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766731087,11,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-30,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766731325,7,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-31,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766731333,3,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-31,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,3,0,0
+1780766731583,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-32,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766731598,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-32,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766731849,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-33,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766731864,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-33,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766732112,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-34,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766732123,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-34,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766732373,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-35,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766732384,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-35,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766732638,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-36,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766732649,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-36,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766732903,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-37,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766732915,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-37,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766733169,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-38,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766733185,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-38,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766733429,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-39,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766733445,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-39,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766733693,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-40,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766733709,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-40,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766733962,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-41,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766733979,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-41,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766734216,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-42,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766734229,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-42,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766734479,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-43,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766734490,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-43,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766734747,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-44,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766734764,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-44,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766735004,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-45,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766735021,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-45,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766735272,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-46,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766735286,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-46,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766735532,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-47,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766735546,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-47,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766735793,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-48,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766735807,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-48,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766736058,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-49,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766736070,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-49,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766736314,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-50,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766736326,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-50,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766736588,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-51,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766736601,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-51,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766736838,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-52,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766736853,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-52,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766737118,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-53,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766737129,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-53,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766737368,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-54,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766737383,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-54,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766737629,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-55,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766737638,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-55,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766737906,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-56,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766737923,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-56,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766738169,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-57,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766738184,11,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-57,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766738420,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-58,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766738431,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-58,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766738682,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-59,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766738698,10,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-59,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766738953,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-60,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766738970,12,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-60,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766739219,20,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-61,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,20,0,0
+1780766739240,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-61,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766739472,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-62,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766739485,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-62,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766739736,13,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-63,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,13,0,0
+1780766739750,9,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-63,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766740003,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-64,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766740013,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-64,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766740269,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-65,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766740278,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-65,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766740524,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-66,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766740534,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-66,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766740735,19,04 Ad Reward Claim,200,OK,Ad Completion Users 1-3,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,19,0,0
+1780766740735,20,04 Ad Reward Claim,200,OK,Ad Completion Users 1-5,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,20,0,0
+1780766740735,20,04 Ad Reward Claim,200,OK,Ad Completion Users 1-4,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,20,0,0
+1780766740735,20,04 Ad Reward Claim,200,OK,Ad Completion Users 1-1,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,20,0,0
+1780766740735,20,04 Ad Reward Claim,200,OK,Ad Completion Users 1-2,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,20,0,0
+1780766740755,4,04 Ad Reward Claim,200,OK,Ad Completion Users 1-6,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,4,0,0
+1780766740791,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-67,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766740799,3,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-67,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,3,0,0
+1780766741028,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-7,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766741062,10,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-68,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,10,0,0
+1780766741073,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-68,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766741292,6,04 Ad Reward Claim,200,OK,Ad Completion Users 1-8,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,5,0,0
+1780766741316,7,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-69,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766741324,2,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-69,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,2,0,0
+1780766741553,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-9,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766741579,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-70,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766741591,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-70,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766741823,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-10,text,true,,181,433,80,80,http://127.0.0.1:8080/ads/watch,8,0,0
+1780766741844,11,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-71,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766741856,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-71,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766742074,12,04 Ad Reward Claim,200,OK,Ad Completion Users 1-11,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766742112,9,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-72,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,9,0,0
+1780766742122,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-72,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766742338,10,04 Ad Reward Claim,200,OK,Ad Completion Users 1-12,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,10,0,0
+1780766742374,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-73,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766742382,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-73,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766742604,12,04 Ad Reward Claim,200,OK,Ad Completion Users 1-13,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766742627,8,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-74,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766742636,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-74,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766742876,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-14,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766742894,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-75,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766742907,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-75,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766743127,14,04 Ad Reward Claim,200,OK,Ad Completion Users 1-15,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,14,0,0
+1780766743169,19,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-76,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,19,0,0
+1780766743192,11,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-76,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,11,0,0
+1780766743391,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-16,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766743425,15,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-77,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,15,0,0
+1780766743442,6,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-77,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,6,0,0
+1780766743662,13,04 Ad Reward Claim,200,OK,Ad Completion Users 1-17,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,13,0,0
+1780766743676,12,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-78,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,12,0,0
+1780766743688,5,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-78,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,5,0,0
+1780766743925,14,04 Ad Reward Claim,200,OK,Ad Completion Users 1-18,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,14,0,0
+1780766743942,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-79,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766743957,7,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-79,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,7,0,0
+1780766744189,16,04 Ad Reward Claim,200,OK,Ad Completion Users 1-19,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766744212,14,02 Ad Watch Timeupdate Event,200,OK,Ad Completion Users 1-80,text,true,,172,433,80,80,http://127.0.0.1:8080/ads/watch/event,14,0,0
+1780766744227,8,03 Ad Watch Ended Event,200,OK,Ad Completion Users 1-80,text,true,,172,428,80,80,http://127.0.0.1:8080/ads/watch/event,8,0,0
+1780766744455,10,04 Ad Reward Claim,200,OK,Ad Completion Users 1-20,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,10,0,0
+1780766744720,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-21,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766744976,14,04 Ad Reward Claim,200,OK,Ad Completion Users 1-22,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,14,0,0
+1780766745234,16,04 Ad Reward Claim,200,OK,Ad Completion Users 1-23,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766745504,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-24,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766745772,6,04 Ad Reward Claim,200,OK,Ad Completion Users 1-25,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,6,0,0
+1780766746025,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-26,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766746303,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-27,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766746576,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-28,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766746822,12,04 Ad Reward Claim,200,OK,Ad Completion Users 1-29,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766747087,9,04 Ad Reward Claim,200,OK,Ad Completion Users 1-30,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,9,0,0
+1780766747341,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-31,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766747599,9,04 Ad Reward Claim,200,OK,Ad Completion Users 1-32,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,9,0,0
+1780766747866,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-33,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766748127,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-34,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766748385,14,04 Ad Reward Claim,200,OK,Ad Completion Users 1-35,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,14,0,0
+1780766748649,13,04 Ad Reward Claim,200,OK,Ad Completion Users 1-36,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,13,0,0
+1780766748916,13,04 Ad Reward Claim,200,OK,Ad Completion Users 1-37,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,13,0,0
+1780766749192,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-38,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,8,0,0
+1780766749448,18,04 Ad Reward Claim,200,OK,Ad Completion Users 1-39,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,18,0,0
+1780766749713,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-40,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766749979,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-41,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766750233,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-42,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,8,0,0
+1780766750500,10,04 Ad Reward Claim,200,OK,Ad Completion Users 1-43,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,10,0,0
+1780766750768,12,04 Ad Reward Claim,200,OK,Ad Completion Users 1-44,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766751028,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-45,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,8,0,0
+1780766751292,5,04 Ad Reward Claim,200,OK,Ad Completion Users 1-46,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,5,0,0
+1780766751548,16,04 Ad Reward Claim,200,OK,Ad Completion Users 1-47,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766751818,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-48,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766752081,19,04 Ad Reward Claim,200,OK,Ad Completion Users 1-49,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,18,0,0
+1780766752328,14,04 Ad Reward Claim,200,OK,Ad Completion Users 1-50,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,14,0,0
+1780766752606,16,04 Ad Reward Claim,200,OK,Ad Completion Users 1-51,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766752855,16,04 Ad Reward Claim,200,OK,Ad Completion Users 1-52,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,16,0,0
+1780766753137,15,04 Ad Reward Claim,200,OK,Ad Completion Users 1-53,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,15,0,0
+1780766753384,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-54,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766753648,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-55,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766753934,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-56,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,0
+1780766754194,15,04 Ad Reward Claim,200,OK,Ad Completion Users 1-57,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,15,0,0
+1780766754439,15,04 Ad Reward Claim,200,OK,Ad Completion Users 1-58,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,15,0,0
+1780766754705,13,04 Ad Reward Claim,200,OK,Ad Completion Users 1-59,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766754979,12,04 Ad Reward Claim,200,OK,Ad Completion Users 1-60,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,12,0,0
+1780766755242,17,04 Ad Reward Claim,200,OK,Ad Completion Users 1-61,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,17,0,0
+1780766755497,10,04 Ad Reward Claim,200,OK,Ad Completion Users 1-62,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,9,0,0
+1780766755752,15,04 Ad Reward Claim,200,OK,Ad Completion Users 1-63,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,15,0,0
+1780766756024,13,04 Ad Reward Claim,200,OK,Ad Completion Users 1-64,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,13,0,0
+1780766756288,22,04 Ad Reward Claim,200,OK,Ad Completion Users 1-65,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,22,0,5
+1780766756545,15,04 Ad Reward Claim,200,OK,Ad Completion Users 1-66,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,15,0,2
+1780766756808,20,04 Ad Reward Claim,200,OK,Ad Completion Users 1-67,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,20,0,2
+1780766756730,102,05 Product Detail,200,OK,Ad Completion Users 1-4,text,true,,45949,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,100,0,3
+1780766756762,70,05 Product Detail,200,OK,Ad Completion Users 1-6,text,true,,45937,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,68,0,1
+1780766756735,97,05 Product Detail,200,OK,Ad Completion Users 1-2,text,true,,45919,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,95,0,2
+1780766756736,96,05 Product Detail,200,OK,Ad Completion Users 1-5,text,true,,45949,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,94,0,1
+1780766756731,101,05 Product Detail,200,OK,Ad Completion Users 1-3,text,true,,45941,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,99,0,2
+1780766756730,103,05 Product Detail,200,OK,Ad Completion Users 1-1,text,true,,45959,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,102,0,4
+1780766757023,20,05 Product Detail,200,OK,Ad Completion Users 1-7,text,true,,45919,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,20,0,3
+1780766757076,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-68,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,2
+1780766757285,33,05 Product Detail,200,OK,Ad Completion Users 1-8,text,true,,45933,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766757325,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-69,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,1
+1780766757545,35,05 Product Detail,200,OK,Ad Completion Users 1-9,text,true,,45965,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,2
+1780766757592,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-70,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,8,0,2
+1780766757814,35,05 Product Detail,200,OK,Ad Completion Users 1-10,text,true,,45983,194,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,3
+1780766757859,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-71,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,2
+1780766758076,39,05 Product Detail,200,OK,Ad Completion Users 1-11,text,true,,45984,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,38,0,2
+1780766758123,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-72,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,2
+1780766758337,30,05 Product Detail,200,OK,Ad Completion Users 1-12,text,true,,45978,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,30,0,2
+1780766758387,9,04 Ad Reward Claim,200,OK,Ad Completion Users 1-73,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,9,0,2
+1780766758603,35,05 Product Detail,200,OK,Ad Completion Users 1-13,text,true,,45928,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,2
+1780766758637,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-74,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,1
+1780766758868,35,05 Product Detail,200,OK,Ad Completion Users 1-14,text,true,,45958,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,3
+1780766758918,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-75,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,1
+1780766759128,36,05 Product Detail,200,OK,Ad Completion Users 1-15,text,true,,45928,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,36,0,3
+1780766759201,9,04 Ad Reward Claim,200,OK,Ad Completion Users 1-76,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,9,0,3
+1780766759396,35,05 Product Detail,200,OK,Ad Completion Users 1-16,text,true,,45962,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,4
+1780766759448,11,04 Ad Reward Claim,200,OK,Ad Completion Users 1-77,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,11,0,2
+1780766759662,35,05 Product Detail,200,OK,Ad Completion Users 1-17,text,true,,45968,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,3
+1780766759693,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-78,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,2
+1780766759921,35,05 Product Detail,200,OK,Ad Completion Users 1-18,text,true,,45974,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,1
+1780766759967,7,04 Ad Reward Claim,200,OK,Ad Completion Users 1-79,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,7,0,1
+1780766760188,35,05 Product Detail,200,OK,Ad Completion Users 1-19,text,true,,45986,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,3
+1780766760237,8,04 Ad Reward Claim,200,OK,Ad Completion Users 1-80,text,true,,181,434,80,80,http://127.0.0.1:8080/ads/watch,8,0,2
+1780766760452,35,05 Product Detail,200,OK,Ad Completion Users 1-20,text,true,,45966,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,3
+1780766760716,33,05 Product Detail,200,OK,Ad Completion Users 1-21,text,true,,45960,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,1
+1780766760978,33,05 Product Detail,200,OK,Ad Completion Users 1-22,text,true,,45946,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766761234,28,05 Product Detail,200,OK,Ad Completion Users 1-23,text,true,,45932,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,28,0,2
+1780766761504,31,05 Product Detail,200,OK,Ad Completion Users 1-24,text,true,,45948,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,1
+1780766761765,33,05 Product Detail,200,OK,Ad Completion Users 1-25,text,true,,45958,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766762024,34,05 Product Detail,200,OK,Ad Completion Users 1-26,text,true,,45962,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,2
+1780766762302,27,05 Product Detail,200,OK,Ad Completion Users 1-27,text,true,,45970,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,27,0,2
+1780766762569,34,05 Product Detail,200,OK,Ad Completion Users 1-28,text,true,,45936,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,2
+1780766762819,33,05 Product Detail,200,OK,Ad Completion Users 1-29,text,true,,45964,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766763096,28,05 Product Detail,200,OK,Ad Completion Users 1-30,text,true,,45952,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,27,0,1
+1780766763334,16,05 Product Detail,200,OK,Ad Completion Users 1-31,text,true,,45950,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,16,0,2
+1780766763602,34,05 Product Detail,200,OK,Ad Completion Users 1-32,text,true,,45974,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,3
+1780766763865,24,05 Product Detail,200,OK,Ad Completion Users 1-33,text,true,,45934,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,24,0,2
+1780766764129,33,05 Product Detail,200,OK,Ad Completion Users 1-34,text,true,,45982,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766764391,32,05 Product Detail,200,OK,Ad Completion Users 1-35,text,true,,45932,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,1
+1780766764649,34,05 Product Detail,200,OK,Ad Completion Users 1-36,text,true,,45910,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766764917,24,05 Product Detail,200,OK,Ad Completion Users 1-37,text,true,,45962,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,24,0,1
+1780766765191,31,05 Product Detail,200,OK,Ad Completion Users 1-38,text,true,,45964,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,30,0,3
+1780766765454,31,05 Product Detail,200,OK,Ad Completion Users 1-39,text,true,,45952,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,2
+1780766765714,32,05 Product Detail,200,OK,Ad Completion Users 1-40,text,true,,45922,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766765989,33,05 Product Detail,200,OK,Ad Completion Users 1-41,text,true,,45928,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766766231,32,05 Product Detail,200,OK,Ad Completion Users 1-42,text,true,,45982,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766766496,31,05 Product Detail,200,OK,Ad Completion Users 1-43,text,true,,45920,195,80,80,http://127.0.0.1:8080/product/OLJCESPC7Z,30,0,1
+1780766766769,31,05 Product Detail,200,OK,Ad Completion Users 1-44,text,true,,45942,195,79,79,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,1
+1780766767029,30,05 Product Detail,200,OK,Ad Completion Users 1-45,text,true,,45916,195,78,78,http://127.0.0.1:8080/product/OLJCESPC7Z,30,0,1
+1780766767289,33,05 Product Detail,200,OK,Ad Completion Users 1-46,text,true,,45952,195,77,77,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766767556,32,05 Product Detail,200,OK,Ad Completion Users 1-47,text,true,,45958,195,76,76,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,2
+1780766767812,31,05 Product Detail,200,OK,Ad Completion Users 1-48,text,true,,45946,195,75,75,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,2
+1780766768072,32,05 Product Detail,200,OK,Ad Completion Users 1-49,text,true,,45978,195,74,74,http://127.0.0.1:8080/product/OLJCESPC7Z,32,0,1
+1780766768329,35,05 Product Detail,200,OK,Ad Completion Users 1-50,text,true,,45956,195,73,73,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,1
+1780766768602,24,05 Product Detail,200,OK,Ad Completion Users 1-51,text,true,,45920,195,72,72,http://127.0.0.1:8080/product/OLJCESPC7Z,24,0,2
+1780766768854,19,05 Product Detail,200,OK,Ad Completion Users 1-52,text,true,,45940,195,71,71,http://127.0.0.1:8080/product/OLJCESPC7Z,19,0,1
+1780766769131,29,05 Product Detail,200,OK,Ad Completion Users 1-53,text,true,,45918,195,70,70,http://127.0.0.1:8080/product/OLJCESPC7Z,29,0,2
+1780766769384,31,05 Product Detail,200,OK,Ad Completion Users 1-54,text,true,,45950,195,69,69,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,2
+1780766769649,29,05 Product Detail,200,OK,Ad Completion Users 1-55,text,true,,45962,195,68,68,http://127.0.0.1:8080/product/OLJCESPC7Z,29,0,2
+1780766769931,31,05 Product Detail,200,OK,Ad Completion Users 1-56,text,true,,45934,195,67,67,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,1
+1780766770196,34,05 Product Detail,200,OK,Ad Completion Users 1-57,text,true,,45976,195,66,66,http://127.0.0.1:8080/product/OLJCESPC7Z,34,0,2
+1780766770435,33,05 Product Detail,200,OK,Ad Completion Users 1-58,text,true,,45966,195,65,65,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766770709,35,05 Product Detail,200,OK,Ad Completion Users 1-59,text,true,,45932,195,64,64,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,3
+1780766770977,18,05 Product Detail,200,OK,Ad Completion Users 1-60,text,true,,45972,195,63,63,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,2
+1780766771242,13,05 Product Detail,200,OK,Ad Completion Users 1-61,text,true,,45962,195,62,62,http://127.0.0.1:8080/product/OLJCESPC7Z,13,0,2
+1780766771496,33,05 Product Detail,200,OK,Ad Completion Users 1-62,text,true,,45946,195,61,61,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,2
+1780766771754,32,05 Product Detail,200,OK,Ad Completion Users 1-63,text,true,,45952,195,60,60,http://127.0.0.1:8080/product/OLJCESPC7Z,31,0,2
+1780766772018,35,05 Product Detail,200,OK,Ad Completion Users 1-64,text,true,,45920,195,59,59,http://127.0.0.1:8080/product/OLJCESPC7Z,35,0,4
+1780766772288,24,05 Product Detail,200,OK,Ad Completion Users 1-65,text,true,,45926,195,58,58,http://127.0.0.1:8080/product/OLJCESPC7Z,24,0,0
+1780766772537,33,05 Product Detail,200,OK,Ad Completion Users 1-66,text,true,,45950,195,57,57,http://127.0.0.1:8080/product/OLJCESPC7Z,33,0,0
+1780766772811,24,05 Product Detail,200,OK,Ad Completion Users 1-67,text,true,,45932,195,56,56,http://127.0.0.1:8080/product/OLJCESPC7Z,24,0,0
+1780766772734,101,06 Add To Cart,200,OK,Ad Completion Users 1-2,text,true,,47638,477,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772734,101,06 Add To Cart,200,OK,Ad Completion Users 1-4,text,true,,47622,477,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772734,30,06 Add To Cart-0,302,Found,Ad Completion Users 1-2,,true,,95,297,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772766,69,06 Add To Cart-1,200,OK,Ad Completion Users 1-2,text,true,,47543,180,56,56,http://127.0.0.1:8080/cart,69,0,0
+1780766772734,30,06 Add To Cart-0,302,Found,Ad Completion Users 1-4,,true,,95,297,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772766,69,06 Add To Cart-1,200,OK,Ad Completion Users 1-4,text,true,,47527,180,56,56,http://127.0.0.1:8080/cart,69,0,0
+1780766772734,102,06 Add To Cart,200,OK,Ad Completion Users 1-5,text,true,,47590,477,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772734,30,06 Add To Cart-0,302,Found,Ad Completion Users 1-5,,true,,95,297,56,56,http://127.0.0.1:8080/cart,30,0,0
+1780766772766,70,06 Add To Cart-1,200,OK,Ad Completion Users 1-5,text,true,,47495,180,56,56,http://127.0.0.1:8080/cart,69,0,0
+1780766772761,77,06 Add To Cart,200,OK,Ad Completion Users 1-6,text,true,,47561,477,52,52,http://127.0.0.1:8080/cart,5,0,0
+1780766772761,5,06 Add To Cart-0,302,Found,Ad Completion Users 1-6,,true,,95,297,52,52,http://127.0.0.1:8080/cart,5,0,0
+1780766772767,71,06 Add To Cart-1,200,OK,Ad Completion Users 1-6,text,true,,47466,180,52,52,http://127.0.0.1:8080/cart,71,0,0
+1780766772734,105,06 Add To Cart,200,OK,Ad Completion Users 1-1,text,true,,47522,477,51,51,http://127.0.0.1:8080/cart,30,0,0
+1780766772734,30,06 Add To Cart-0,302,Found,Ad Completion Users 1-1,,true,,95,297,51,51,http://127.0.0.1:8080/cart,30,0,0
+1780766772766,73,06 Add To Cart-1,200,OK,Ad Completion Users 1-1,text,true,,47427,180,51,51,http://127.0.0.1:8080/cart,72,0,0
+1780766772734,105,06 Add To Cart,200,OK,Ad Completion Users 1-3,text,true,,47630,477,50,50,http://127.0.0.1:8080/cart,30,0,0
+1780766772734,30,06 Add To Cart-0,302,Found,Ad Completion Users 1-3,,true,,95,297,50,50,http://127.0.0.1:8080/cart,30,0,0
+1780766772766,73,06 Add To Cart-1,200,OK,Ad Completion Users 1-3,text,true,,47535,180,50,50,http://127.0.0.1:8080/cart,72,0,0
+1780766773028,38,06 Add To Cart,200,OK,Ad Completion Users 1-7,text,true,,47602,477,49,49,http://127.0.0.1:8080/cart,10,0,0
+1780766773028,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-7,,true,,95,297,49,49,http://127.0.0.1:8080/cart,10,0,0
+1780766773039,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-7,text,true,,47507,180,49,49,http://127.0.0.1:8080/cart,26,0,0
+1780766773084,18,05 Product Detail,200,OK,Ad Completion Users 1-68,text,true,,45962,195,48,48,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,0
+1780766773286,26,06 Add To Cart,200,OK,Ad Completion Users 1-8,text,true,,47524,477,47,47,http://127.0.0.1:8080/cart,8,0,0
+1780766773286,8,06 Add To Cart-0,302,Found,Ad Completion Users 1-8,,true,,95,297,47,47,http://127.0.0.1:8080/cart,8,0,0
+1780766773294,18,06 Add To Cart-1,200,OK,Ad Completion Users 1-8,text,true,,47429,180,47,47,http://127.0.0.1:8080/cart,17,0,0
+1780766773325,13,05 Product Detail,200,OK,Ad Completion Users 1-69,text,true,,45952,195,46,46,http://127.0.0.1:8080/product/OLJCESPC7Z,13,0,0
+1780766773546,40,06 Add To Cart,200,OK,Ad Completion Users 1-9,text,true,,47640,477,45,45,http://127.0.0.1:8080/cart,11,0,0
+1780766773546,11,06 Add To Cart-0,302,Found,Ad Completion Users 1-9,,true,,95,297,45,45,http://127.0.0.1:8080/cart,11,0,0
+1780766773557,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-9,text,true,,47545,180,45,45,http://127.0.0.1:8080/cart,29,0,0
+1780766773597,18,05 Product Detail,200,OK,Ad Completion Users 1-70,text,true,,45928,195,44,44,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,0
+1780766773823,41,06 Add To Cart,200,OK,Ad Completion Users 1-10,text,true,,47618,477,43,43,http://127.0.0.1:8080/cart,13,0,0
+1780766773823,13,06 Add To Cart-0,302,Found,Ad Completion Users 1-10,,true,,95,297,43,43,http://127.0.0.1:8080/cart,13,0,0
+1780766773836,28,06 Add To Cart-1,200,OK,Ad Completion Users 1-10,text,true,,47523,180,43,43,http://127.0.0.1:8080/cart,28,0,0
+1780766773859,19,05 Product Detail,200,OK,Ad Completion Users 1-71,text,true,,45936,195,42,42,http://127.0.0.1:8080/product/OLJCESPC7Z,19,0,0
+1780766774086,37,06 Add To Cart,200,OK,Ad Completion Users 1-11,text,true,,47566,479,41,41,http://127.0.0.1:8080/cart,10,0,0
+1780766774086,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-11,,true,,95,298,41,41,http://127.0.0.1:8080/cart,10,0,0
+1780766774096,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-11,text,true,,47471,181,41,41,http://127.0.0.1:8080/cart,27,0,0
+1780766774125,17,05 Product Detail,200,OK,Ad Completion Users 1-72,text,true,,45922,195,40,40,http://127.0.0.1:8080/product/OLJCESPC7Z,17,0,0
+1780766774338,38,06 Add To Cart,200,OK,Ad Completion Users 1-12,text,true,,47601,479,40,40,http://127.0.0.1:8080/cart,10,0,0
+1780766774338,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-12,,true,,95,298,40,40,http://127.0.0.1:8080/cart,10,0,0
+1780766774349,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-12,text,true,,47506,181,40,40,http://127.0.0.1:8080/cart,27,0,0
+1780766774392,18,05 Product Detail,200,OK,Ad Completion Users 1-73,text,true,,45958,195,39,39,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,0
+1780766774612,43,06 Add To Cart,200,OK,Ad Completion Users 1-13,text,true,,47631,479,39,39,http://127.0.0.1:8080/cart,14,0,0
+1780766774612,14,06 Add To Cart-0,302,Found,Ad Completion Users 1-13,,true,,95,298,39,39,http://127.0.0.1:8080/cart,14,0,0
+1780766774626,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-13,text,true,,47536,181,39,39,http://127.0.0.1:8080/cart,29,0,0
+1780766774641,17,05 Product Detail,200,OK,Ad Completion Users 1-74,text,true,,45948,195,38,38,http://127.0.0.1:8080/product/OLJCESPC7Z,17,0,0
+1780766774872,40,06 Add To Cart,200,OK,Ad Completion Users 1-14,text,true,,47513,479,38,38,http://127.0.0.1:8080/cart,15,0,0
+1780766774872,15,06 Add To Cart-0,302,Found,Ad Completion Users 1-14,,true,,95,298,38,38,http://127.0.0.1:8080/cart,15,0,0
+1780766774888,24,06 Add To Cart-1,200,OK,Ad Completion Users 1-14,text,true,,47418,181,38,38,http://127.0.0.1:8080/cart,24,0,0
+1780766774910,17,05 Product Detail,200,OK,Ad Completion Users 1-75,text,true,,45924,195,37,37,http://127.0.0.1:8080/product/OLJCESPC7Z,17,0,0
+1780766775133,38,06 Add To Cart,200,OK,Ad Completion Users 1-15,text,true,,47491,479,36,36,http://127.0.0.1:8080/cart,12,0,0
+1780766775133,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-15,,true,,95,298,36,36,http://127.0.0.1:8080/cart,12,0,0
+1780766775145,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-15,text,true,,47396,181,36,36,http://127.0.0.1:8080/cart,26,0,0
+1780766775198,16,05 Product Detail,200,OK,Ad Completion Users 1-76,text,true,,45944,195,35,35,http://127.0.0.1:8080/product/OLJCESPC7Z,16,0,0
+1780766775401,45,06 Add To Cart,200,OK,Ad Completion Users 1-16,text,true,,47607,479,35,35,http://127.0.0.1:8080/cart,16,0,0
+1780766775401,16,06 Add To Cart-0,302,Found,Ad Completion Users 1-16,,true,,95,298,35,35,http://127.0.0.1:8080/cart,16,0,0
+1780766775417,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-16,text,true,,47512,181,35,35,http://127.0.0.1:8080/cart,29,0,0
+1780766775452,18,05 Product Detail,200,OK,Ad Completion Users 1-77,text,true,,45966,195,34,34,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,0
+1780766775657,38,06 Add To Cart,200,OK,Ad Completion Users 1-17,text,true,,47557,479,34,34,http://127.0.0.1:8080/cart,9,0,0
+1780766775657,9,06 Add To Cart-0,302,Found,Ad Completion Users 1-17,,true,,95,298,34,34,http://127.0.0.1:8080/cart,9,0,0
+1780766775666,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-17,text,true,,47462,181,34,34,http://127.0.0.1:8080/cart,29,0,0
+1780766775695,17,05 Product Detail,200,OK,Ad Completion Users 1-78,text,true,,45960,195,33,33,http://127.0.0.1:8080/product/OLJCESPC7Z,17,0,0
+1780766775928,40,06 Add To Cart,200,OK,Ad Completion Users 1-18,text,true,,47599,479,32,32,http://127.0.0.1:8080/cart,13,0,0
+1780766775928,13,06 Add To Cart-0,302,Found,Ad Completion Users 1-18,,true,,95,298,32,32,http://127.0.0.1:8080/cart,13,0,0
+1780766775941,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-18,text,true,,47504,181,32,32,http://127.0.0.1:8080/cart,27,0,0
+1780766775962,18,05 Product Detail,200,OK,Ad Completion Users 1-79,text,true,,45912,195,31,31,http://127.0.0.1:8080/product/OLJCESPC7Z,18,0,0
+1780766776185,39,06 Add To Cart,200,OK,Ad Completion Users 1-19,text,true,,47631,479,31,31,http://127.0.0.1:8080/cart,12,0,0
+1780766776185,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-19,,true,,95,298,31,31,http://127.0.0.1:8080/cart,12,0,0
+1780766776197,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-19,text,true,,47536,181,31,31,http://127.0.0.1:8080/cart,27,0,0
+1780766776236,17,05 Product Detail,200,OK,Ad Completion Users 1-80,text,true,,45974,195,30,30,http://127.0.0.1:8080/product/OLJCESPC7Z,17,0,0
+1780766776450,45,06 Add To Cart,200,OK,Ad Completion Users 1-20,text,true,,47493,479,30,30,http://127.0.0.1:8080/cart,18,0,0
+1780766776450,18,06 Add To Cart-0,302,Found,Ad Completion Users 1-20,,true,,95,298,30,30,http://127.0.0.1:8080/cart,18,0,0
+1780766776468,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-20,text,true,,47398,181,30,30,http://127.0.0.1:8080/cart,27,0,0
+1780766776718,39,06 Add To Cart,200,OK,Ad Completion Users 1-21,text,true,,47505,479,29,29,http://127.0.0.1:8080/cart,13,0,0
+1780766776718,13,06 Add To Cart-0,302,Found,Ad Completion Users 1-21,,true,,95,298,29,29,http://127.0.0.1:8080/cart,13,0,0
+1780766776731,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-21,text,true,,47410,181,29,29,http://127.0.0.1:8080/cart,25,0,0
+1780766776975,41,06 Add To Cart,200,OK,Ad Completion Users 1-22,text,true,,47613,479,28,28,http://127.0.0.1:8080/cart,12,0,0
+1780766776975,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-22,,true,,95,298,28,28,http://127.0.0.1:8080/cart,12,0,0
+1780766776988,28,06 Add To Cart-1,200,OK,Ad Completion Users 1-22,text,true,,47518,181,28,28,http://127.0.0.1:8080/cart,27,0,0
+1780766777237,35,06 Add To Cart,200,OK,Ad Completion Users 1-23,text,true,,47595,479,27,27,http://127.0.0.1:8080/cart,11,0,0
+1780766777237,11,06 Add To Cart-0,302,Found,Ad Completion Users 1-23,,true,,95,298,27,27,http://127.0.0.1:8080/cart,11,0,0
+1780766777249,23,06 Add To Cart-1,200,OK,Ad Completion Users 1-23,text,true,,47500,181,27,27,http://127.0.0.1:8080/cart,22,0,0
+1780766777495,34,06 Add To Cart,200,OK,Ad Completion Users 1-24,text,true,,47577,479,26,26,http://127.0.0.1:8080/cart,9,0,0
+1780766777495,9,06 Add To Cart-0,302,Found,Ad Completion Users 1-24,,true,,95,298,26,26,http://127.0.0.1:8080/cart,9,0,0
+1780766777504,25,06 Add To Cart-1,200,OK,Ad Completion Users 1-24,text,true,,47482,181,26,26,http://127.0.0.1:8080/cart,25,0,0
+1780766777769,38,06 Add To Cart,200,OK,Ad Completion Users 1-25,text,true,,47548,479,25,25,http://127.0.0.1:8080/cart,8,0,0
+1780766777769,8,06 Add To Cart-0,302,Found,Ad Completion Users 1-25,,true,,95,298,25,25,http://127.0.0.1:8080/cart,8,0,0
+1780766777778,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-25,text,true,,47453,181,25,25,http://127.0.0.1:8080/cart,29,0,0
+1780766778019,34,06 Add To Cart,200,OK,Ad Completion Users 1-26,text,true,,47607,479,24,24,http://127.0.0.1:8080/cart,11,0,0
+1780766778019,11,06 Add To Cart-0,302,Found,Ad Completion Users 1-26,,true,,95,298,24,24,http://127.0.0.1:8080/cart,11,0,0
+1780766778030,23,06 Add To Cart-1,200,OK,Ad Completion Users 1-26,text,true,,47512,181,24,24,http://127.0.0.1:8080/cart,23,0,0
+1780766778305,33,06 Add To Cart,200,OK,Ad Completion Users 1-27,text,true,,47631,479,23,23,http://127.0.0.1:8080/cart,8,0,0
+1780766778305,8,06 Add To Cart-0,302,Found,Ad Completion Users 1-27,,true,,95,298,23,23,http://127.0.0.1:8080/cart,8,0,0
+1780766778313,25,06 Add To Cart-1,200,OK,Ad Completion Users 1-27,text,true,,47536,181,23,23,http://127.0.0.1:8080/cart,25,0,0
+1780766778569,35,06 Add To Cart,200,OK,Ad Completion Users 1-28,text,true,,47555,479,22,22,http://127.0.0.1:8080/cart,9,0,0
+1780766778569,9,06 Add To Cart-0,302,Found,Ad Completion Users 1-28,,true,,95,298,22,22,http://127.0.0.1:8080/cart,9,0,0
+1780766778578,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-28,text,true,,47460,181,22,22,http://127.0.0.1:8080/cart,26,0,0
+1780766778819,39,06 Add To Cart,200,OK,Ad Completion Users 1-29,text,true,,47579,479,21,21,http://127.0.0.1:8080/cart,12,0,0
+1780766778819,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-29,,true,,95,298,21,21,http://127.0.0.1:8080/cart,12,0,0
+1780766778832,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-29,text,true,,47484,181,21,21,http://127.0.0.1:8080/cart,26,0,0
+1780766779097,36,06 Add To Cart,200,OK,Ad Completion Users 1-30,text,true,,47491,479,20,20,http://127.0.0.1:8080/cart,10,0,0
+1780766779097,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-30,,true,,95,298,20,20,http://127.0.0.1:8080/cart,10,0,0
+1780766779107,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-30,text,true,,47396,181,20,20,http://127.0.0.1:8080/cart,26,0,0
+1780766779343,38,06 Add To Cart,200,OK,Ad Completion Users 1-31,text,true,,47627,479,19,19,http://127.0.0.1:8080/cart,12,0,0
+1780766779343,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-31,,true,,95,298,19,19,http://127.0.0.1:8080/cart,12,0,0
+1780766779356,25,06 Add To Cart-1,200,OK,Ad Completion Users 1-31,text,true,,47532,181,19,19,http://127.0.0.1:8080/cart,25,0,0
+1780766779607,40,06 Add To Cart,200,OK,Ad Completion Users 1-32,text,true,,47567,479,18,18,http://127.0.0.1:8080/cart,9,0,0
+1780766779607,9,06 Add To Cart-0,302,Found,Ad Completion Users 1-32,,true,,95,298,18,18,http://127.0.0.1:8080/cart,9,0,0
+1780766779616,31,06 Add To Cart-1,200,OK,Ad Completion Users 1-32,text,true,,47472,181,18,18,http://127.0.0.1:8080/cart,31,0,0
+1780766779865,39,06 Add To Cart,200,OK,Ad Completion Users 1-33,text,true,,47579,479,17,17,http://127.0.0.1:8080/cart,11,0,0
+1780766779865,11,06 Add To Cart-0,302,Found,Ad Completion Users 1-33,,true,,95,298,17,17,http://127.0.0.1:8080/cart,11,0,0
+1780766779877,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-33,text,true,,47484,181,17,17,http://127.0.0.1:8080/cart,27,0,0
+1780766780134,39,06 Add To Cart,200,OK,Ad Completion Users 1-34,text,true,,47524,479,16,16,http://127.0.0.1:8080/cart,10,0,0
+1780766780134,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-34,,true,,95,298,16,16,http://127.0.0.1:8080/cart,10,0,0
+1780766780144,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-34,text,true,,47429,181,16,16,http://127.0.0.1:8080/cart,29,0,0
+1780766780396,37,06 Add To Cart,200,OK,Ad Completion Users 1-35,text,true,,47549,479,15,15,http://127.0.0.1:8080/cart,10,0,0
+1780766780396,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-35,,true,,95,298,15,15,http://127.0.0.1:8080/cart,10,0,0
+1780766780406,27,06 Add To Cart-1,200,OK,Ad Completion Users 1-35,text,true,,47454,181,15,15,http://127.0.0.1:8080/cart,26,0,0
+1780766780659,38,06 Add To Cart,200,OK,Ad Completion Users 1-36,text,true,,47567,479,14,14,http://127.0.0.1:8080/cart,12,0,0
+1780766780659,12,06 Add To Cart-0,302,Found,Ad Completion Users 1-36,,true,,95,298,14,14,http://127.0.0.1:8080/cart,12,0,0
+1780766780671,26,06 Add To Cart-1,200,OK,Ad Completion Users 1-36,text,true,,47472,181,14,14,http://127.0.0.1:8080/cart,26,0,0
+1780766780917,38,06 Add To Cart,200,OK,Ad Completion Users 1-37,text,true,,47489,479,13,13,http://127.0.0.1:8080/cart,9,0,0
+1780766780917,9,06 Add To Cart-0,302,Found,Ad Completion Users 1-37,,true,,95,298,13,13,http://127.0.0.1:8080/cart,9,0,0
+1780766780927,28,06 Add To Cart-1,200,OK,Ad Completion Users 1-37,text,true,,47394,181,13,13,http://127.0.0.1:8080/cart,27,0,0
+1780766781186,24,06 Add To Cart,200,OK,Ad Completion Users 1-38,text,true,,47531,479,12,12,http://127.0.0.1:8080/cart,6,0,0
+1780766781186,6,06 Add To Cart-0,302,Found,Ad Completion Users 1-38,,true,,95,298,12,12,http://127.0.0.1:8080/cart,6,0,0
+1780766781192,18,06 Add To Cart-1,200,OK,Ad Completion Users 1-38,text,true,,47436,181,12,12,http://127.0.0.1:8080/cart,18,0,0
+1780766781456,43,06 Add To Cart,200,OK,Ad Completion Users 1-39,text,true,,47563,479,11,11,http://127.0.0.1:8080/cart,13,0,0
+1780766781456,13,06 Add To Cart-0,302,Found,Ad Completion Users 1-39,,true,,95,298,11,11,http://127.0.0.1:8080/cart,13,0,0
+1780766781470,29,06 Add To Cart-1,200,OK,Ad Completion Users 1-39,text,true,,47468,181,11,11,http://127.0.0.1:8080/cart,29,0,0
+1780766781715,47,06 Add To Cart,200,OK,Ad Completion Users 1-40,text,true,,47573,479,10,10,http://127.0.0.1:8080/cart,10,0,0
+1780766781715,10,06 Add To Cart-0,302,Found,Ad Completion Users 1-40,,true,,95,298,10,10,http://127.0.0.1:8080/cart,10,0,0
+1780766781725,37,06 Add To Cart-1,200,OK,Ad Completion Users 1-40,text,true,,47478,181,10,10,http://127.0.0.1:8080/cart,28,0,0
+1780766781985,27,06 Add To Cart,200,OK,Ad Completion Users 1-41,text,true,,47623,479,9,9,http://127.0.0.1:8080/cart,7,0,0
+1780766781985,7,06 Add To Cart-0,302,Found,Ad Completion Users 1-41,,true,,95,298,9,9,http://127.0.0.1:8080/cart,7,0,0
+1780766781993,19,06 Add To Cart-1,200,OK,Ad Completion Users 1-41,text,true,,47528,181,9,9,http://127.0.0.1:8080/cart,19,0,0
+1780766782130,43,06 Add To Cart,200,OK,Ad Completion Users 1-72,text,true,,47544,479,8,8,http://127.0.0.1:8080/cart,11,0,0
+1780766782130,11,06 Add To Cart-0,302,Found,Ad Completion Users 1-72,,true,,95,298,8,8,http://127.0.0.1:8080/cart,11,0,0
+1780766782142,31,06 Add To Cart-1,200,OK,Ad Completion Users 1-72,text,true,,47449,181,8,8,http://127.0.0.1:8080/cart,31,0,0
+1780766782163,25,06 Add To Cart,200,OK,Ad Completion Users 1-79,text,true,,47531,479,7,7,http://127.0.0.1:8080/cart,6,0,0
+1780766782163,6,06 Add To Cart-0,302,Found,Ad Completion Users 1-79,,true,,95,298,7,7,http://127.0.0.1:8080/cart,6,0,0
+1780766782169,19,06 Add To Cart-1,200,OK,Ad Completion Users 1-79,text,true,,47436,181,7,7,http://127.0.0.1:8080/cart,19,0,0
+1780766782189,24,06 Add To Cart,200,OK,Ad Completion Users 1-73,text,true,,47583,479,6,6,http://127.0.0.1:8080/cart,5,0,0
+1780766782189,5,06 Add To Cart-0,302,Found,Ad Completion Users 1-73,,true,,95,298,6,6,http://127.0.0.1:8080/cart,5,0,0
+1780766782194,19,06 Add To Cart-1,200,OK,Ad Completion Users 1-73,text,true,,47488,181,6,6,http://127.0.0.1:8080/cart,19,0,0
+1780766782193,23,06 Add To Cart,200,OK,Ad Completion Users 1-76,text,true,,47533,479,5,5,http://127.0.0.1:8080/cart,6,0,0
+1780766782193,6,06 Add To Cart-0,302,Found,Ad Completion Users 1-76,,true,,95,298,5,5,http://127.0.0.1:8080/cart,6,0,0
+1780766782199,17,06 Add To Cart-1,200,OK,Ad Completion Users 1-76,text,true,,47438,181,5,5,http://127.0.0.1:8080/cart,17,0,0
+1780766782232,18,06 Add To Cart,200,OK,Ad Completion Users 1-42,text,true,,47631,479,4,4,http://127.0.0.1:8080/cart,4,0,0
+1780766782232,4,06 Add To Cart-0,302,Found,Ad Completion Users 1-42,,true,,95,298,4,4,http://127.0.0.1:8080/cart,4,0,0
+1780766782236,14,06 Add To Cart-1,200,OK,Ad Completion Users 1-42,text,true,,47536,181,4,4,http://127.0.0.1:8080/cart,14,0,0
+1780766782229,22,06 Add To Cart,200,OK,Ad Completion Users 1-80,text,true,,47649,479,4,4,http://127.0.0.1:8080/cart,4,0,0
+1780766782229,4,06 Add To Cart-0,302,Found,Ad Completion Users 1-80,,true,,95,298,4,4,http://127.0.0.1:8080/cart,4,0,0
+1780766782233,18,06 Add To Cart-1,200,OK,Ad Completion Users 1-80,text,true,,47554,181,4,4,http://127.0.0.1:8080/cart,17,0,0
+1780766782244,21,06 Add To Cart,200,OK,Ad Completion Users 1-74,text,true,,47557,479,2,2,http://127.0.0.1:8080/cart,4,0,0
+1780766782242,23,06 Add To Cart,200,OK,Ad Completion Users 1-77,text,true,,47651,479,2,2,http://127.0.0.1:8080/cart,4,0,0
+1780766782244,4,06 Add To Cart-0,302,Found,Ad Completion Users 1-74,,true,,95,298,2,2,http://127.0.0.1:8080/cart,4,0,0
+1780766782248,17,06 Add To Cart-1,200,OK,Ad Completion Users 1-74,text,true,,47462,181,2,2,http://127.0.0.1:8080/cart,16,0,0
+1780766782242,4,06 Add To Cart-0,302,Found,Ad Completion Users 1-77,,true,,95,298,2,2,http://127.0.0.1:8080/cart,4,0,0
+1780766782247,18,06 Add To Cart-1,200,OK,Ad Completion Users 1-77,text,true,,47556,181,2,2,http://127.0.0.1:8080/cart,17,0,0
