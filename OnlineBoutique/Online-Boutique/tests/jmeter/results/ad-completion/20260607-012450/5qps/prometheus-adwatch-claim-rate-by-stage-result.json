@@ -1,0 +1,1 @@
+{"status":"success","data":{"resultType":"vector","result":[{"metric":{"result":"error","stage":"1"},"value":[1780766784.391,"0"]},{"metric":{"result":"success","stage":"1"},"value":[1780766784.391,"0"]},{"metric":{"result":"success","stage":"2"},"value":[1780766784.391,"0"]},{"metric":{"result":"success","stage":"3"},"value":[1780766784.391,"0.2801734198894461"]}]}}

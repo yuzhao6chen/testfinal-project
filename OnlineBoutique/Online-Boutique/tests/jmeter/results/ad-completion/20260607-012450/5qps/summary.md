@@ -1,0 +1,15 @@
+# JMeter Step Summary
+
+Business 4xx responses such as sold_out or not_active are counted in `failure_rate_pct`; use `server_error_rate_pct` to isolate HTTP 5xx.
+
+| step | label | samples | failure_rate_pct | server_error_rate_pct | avg_ms | p50_ms | p95_ms | p99_ms | throughput_rps |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 5qps | TOTAL | 547 | 0.0 | 0.0 | 19.452 | 14.0 | 40.0 | 101.0 | 6.096 |
+| 5qps | 01 Ad Watch Start | 80 | 0.0 | 0.0 | 14.05 | 14.0 | 30.0 | 31.0 | 17.021 |
+| 5qps | 02 Ad Watch Timeupdate Event | 80 | 0.0 | 0.0 | 13.325 | 12.0 | 31.0 | 39.0 | 4.096 |
+| 5qps | 03 Ad Watch Ended Event | 80 | 0.0 | 0.0 | 7.338 | 7.0 | 11.0 | 12.0 | 4.102 |
+| 5qps | 04 Ad Reward Claim | 80 | 0.0 | 0.0 | 12.463 | 12.0 | 20.0 | 22.0 | 4.102 |
+| 5qps | 05 Product Detail | 80 | 0.0 | 0.0 | 33.337 | 32.0 | 96.0 | 103.0 | 4.101 |
+| 5qps | 06 Add To Cart | 49 | 0.0 | 0.0 | 43.102 | 38.0 | 102.0 | 105.0 | 5.152 |
+| 5qps | 06 Add To Cart-0 | 49 | 0.0 | 0.0 | 11.878 | 10.0 | 30.0 | 30.0 | 5.152 |
+| 5qps | 06 Add To Cart-1 | 49 | 0.0 | 0.0 | 30.714 | 27.0 | 71.0 | 73.0 | 5.168 |

@@ -1,0 +1,1 @@
+{"status":"success","data":{"resultType":"vector","result":[{"metric":{"event":"timeupdate","result":"success"},"value":[1780766784.474,"0.27281380925129406"]},{"metric":{"event":"ended","result":"success"},"value":[1780766784.474,"0.27120887097968915"]}]}}

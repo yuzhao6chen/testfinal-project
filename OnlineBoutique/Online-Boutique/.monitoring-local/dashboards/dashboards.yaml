@@ -1,0 +1,11 @@
+apiVersion: 1
+providers:
+  - name: rewardservice
+    orgId: 1
+    folder: RewardService
+    type: file
+    disableDeletion: false
+    editable: true
+    updateIntervalSeconds: 5
+    options:
+      path: /var/lib/grafana/dashboards/rewardservice
